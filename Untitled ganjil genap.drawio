@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" modified="2023-10-17T04:56:21.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="OrrQ7Lo3irz62CSETxe8" version="22.0.4" type="github">
+  <diagram name="Page-1" id="zlc6QN9guUduE7LOQ4Xu">
+    <mxGraphModel dx="1114" dy="1702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4DTdX2c617SevMJaB1Sv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DTdX2c617SevMJaB1Sv-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4DTdX2c617SevMJaB1Sv-4" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4DTdX2c617SevMJaB1Sv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="220" as="sourcePoint" />
+            <mxPoint x="420" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4DTdX2c617SevMJaB1Sv-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="4DTdX2c617SevMJaB1Sv-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="315" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4DTdX2c617SevMJaB1Sv-24" value="&quot;GENAP&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="4DTdX2c617SevMJaB1Sv-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DTdX2c617SevMJaB1Sv-26" target="4DTdX2c617SevMJaB1Sv-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4DTdX2c617SevMJaB1Sv-26" value="&quot;GANJIL&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="305" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4DTdX2c617SevMJaB1Sv-28" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="390" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4DTdX2c617SevMJaB1Sv-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="4DTdX2c617SevMJaB1Sv-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4DTdX2c617SevMJaB1Sv-35" value="Bil mod 2 == 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4DTdX2c617SevMJaB1Sv-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DTdX2c617SevMJaB1Sv-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4DTdX2c617SevMJaB1Sv-51" value="Deklarasi variabel bil" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="90" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4DTdX2c617SevMJaB1Sv-54" value="Masukkan nilai bil" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4DTdX2c617SevMJaB1Sv-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4DTdX2c617SevMJaB1Sv-24" target="4DTdX2c617SevMJaB1Sv-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
